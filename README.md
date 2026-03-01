@@ -1,4 +1,4 @@
-# SheerVerify: Your Premium 1-Year Gemini Pro Student Verifier 🚀
+# SheerVerify: Premium 1-Year Gemini Pro Student Verifier 🚀
 
 🚀 **Unlock Gemini Pro for 1 year (+2TB storage) at a fraction of the cost! SheerVerify is a premium automated tool that streamlines SheerID student verification instantly. Get secure, 24/7 access via our Web Dashboard, Telegram Bot, or Mini App. Start verifying or join our FREE Reseller Panel today! 💎**
 
@@ -8,7 +8,7 @@
 The fastest way to verify. No login required—just paste your link and go!
 
 👉 **[Start on Telegram Bot](https://t.me/SheerVerify_Bot)**
-👉 **[Launch Mini App](https://t.me/SheerVerify_Bot/app)**
+👉 **[Launch Mini App](https://t.me/SheerVerify_Bot)**
 
 *   ⚡ **Instant Verification**: Completed in under 60 seconds.
 *   💎 **Balance Tracking**: Real-time credit monitoring.
